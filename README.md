@@ -1,6 +1,7 @@
 # What is Dealer?
 * Dealer is a console software for a Car Dealer
-hr
+
+
 # Features
 * Searching by model.
 * Searching by brand.
